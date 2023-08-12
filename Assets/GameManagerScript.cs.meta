@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 501f1c0e1efd146ca809edc3b5ebf1a8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - timerText: {instanceID: 0}
+  - jsonFile: {instanceID: 0}
+  - nextLevelButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
